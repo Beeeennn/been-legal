@@ -24,6 +24,4 @@ We may remove the bot from a server or block usage for abuse, policy violations,
 ## 6. Changes
 We may update these Terms. Continued use after changes means you accept the updated Terms.
 
-## 7. Contact
-Questions? Email **CONTACT_EMAIL**.
 
